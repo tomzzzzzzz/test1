@@ -1,0 +1,24 @@
+
+*{
+    background-color: thistle;
+       
+    }
+
+h1,
+h2{
+    color:salmon;
+}
+i{
+    color:rgb(255, 255, 255);
+    background-color: rgb(243, 51, 195);
+}
+td {
+    color: rebeccapurple;
+}
+main {
+    border-bottom-left-radius: solid;
+}
+
+main{
+    border-style: solid;
+}
